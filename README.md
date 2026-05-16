@@ -127,22 +127,34 @@ plt.show()
 ### Sobel Edge Detector
 - Detects horizontal and vertical edges
 - Produces gradient-based edge map
+<img width="772" height="384" alt="image" src="https://github.com/user-attachments/assets/df649b01-dd77-4419-b237-f006d808838e" />
+  
 
 ### Prewitt Edge Detector
 - Detects directional edges
 - Uses simple kernels
+  <img width="772" height="384" alt="image" src="https://github.com/user-attachments/assets/3ba2789c-4528-46e2-94c5-2cb834ce9b99" />
+
 
 ### Roberts Edge Detector
 - Detects diagonal edges
 - Sensitive to noise
 
+<img width="772" height="384" alt="image" src="https://github.com/user-attachments/assets/7f0f5383-3ad2-4d85-bfe3-7f601b60d78c" />
+
+
 ### Laplacian Edge Detector
 - Uses second-order derivatives
 - Detects rapid intensity changes
 
+  <img width="772" height="384" alt="image" src="https://github.com/user-attachments/assets/bcd72da2-e62d-4eaf-99d4-b43419876607" />
+
+
 ### Canny Edge Detector
 - Produces clean and thin edges
 - Multi-stage edge detection technique
+  
+<img width="772" height="384" alt="image" src="https://github.com/user-attachments/assets/fa0a9b3c-3917-40eb-b26f-57ec237a3866" />
 
 ---
 
